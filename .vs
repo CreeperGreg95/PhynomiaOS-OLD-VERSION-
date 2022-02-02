@@ -5,3 +5,4 @@ This program use Visual Studio 2022
 nan Visual Studio 2019 pour l'instant -_-
 
 Que je suis bête (xD)
+(la migration arrivera bientôt :) )
